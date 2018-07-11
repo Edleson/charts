@@ -3,21 +3,21 @@ entries:
   jenkins:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-07-10T22:08:03.205836281-03:00
+    created: 2018-07-10T22:33:35.121177816-03:00
     description: A Helm chart for Kubernetes
     digest: 8b8f225f8e549d8e70ffe4d0f894bd367bc1faf5383ea660e4eeaaaf0a056c3b
     name: jenkins
     urls:
-    - https://github.com/Edleson/charts/jenkins-0.1.0.tgz
+    - https://github.com/Edleson/charts/blob/master/jenkins-0.1.0.tgz
     version: 0.1.0
   nexus:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-07-10T22:08:03.206230359-03:00
+    created: 2018-07-10T22:33:35.122025564-03:00
     description: A Helm chart for Kubernetes
     digest: 25e644c59b0277449fd3df681cd4b1c591d88d41925e2824bbfe978a5524dbd6
     name: nexus
     urls:
-    - https://github.com/Edleson/charts/nexus-0.1.0.tgz
+    - https://github.com/Edleson/charts/blob/master/nexus-0.1.0.tgz
     version: 0.1.0
-generated: 2018-07-10T22:08:03.205159431-03:00
+generated: 2018-07-10T22:33:35.120165224-03:00
